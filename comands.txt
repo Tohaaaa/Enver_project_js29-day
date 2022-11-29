@@ -10,3 +10,6 @@ git init - инициализация git репозитория
 git remote add origin shh-url привязка локального репозитория к удаленному
 git remote -v - посмотреть к какому репозиторию приыязан локальный файл
 git remote remove <name> -удалить привязку
+git add . - упаковать все данные в коробку
+git commit -m 'Some massage' - Маркировка о документе
+git push origin main -отправкв данных
